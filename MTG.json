@@ -3,7 +3,7 @@
     "name": "Magic: The Gathering",
     "previewText": "A set of MTG fonts for Bunny",
     "main": {
-        "ABCGintoNord-ExtraBold": "https://github.com/AetheralMeowstic/MTG/raw/main/BelerenBold.TTF?raw=1",
+        "ABCGintoNord-ExtraBold": "https://github.com/AetheralMeowstic/MTG/raw/main/BelerenBold.ttf?raw=1",
         "ggsans-Bold": "https://github.com/AetheralMeowstic/MTG/raw/main/PlantinMTProBold.TTF?raw=1",
         "ggsans-BoldItalic": "https://github.com/AetheralMeowstic/MTG/raw/main/PlantinMTProBdIt.TTF?raw=1",
         "ggsans-ExtraBold": "https://github.com/AetheralMeowstic/MTG/raw/main/PlantinMTProBold.TTF?raw=1",
